@@ -9,3 +9,4 @@ Learn how to retrieve and filter data from MySQL tables using SELECT queries.
 - ORDER BY and LIMIT
 - Aggregate Functions - COUNT, SUM, AVG
 - GROUP BY and HAVING
+- INNER JOIN,LEFT JOIN,RIGHT JOIN.
